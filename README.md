@@ -64,9 +64,9 @@
   &emsp;
 </p>
 
-### 👉  Connect With Me
-  <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px">
+### 👉  Connect With Me <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px">
 </h1>
+  
 <p align="center">
   <br>
   <a href="https://www.linkedin.com/in/umutcan-%C3%A7al%C4%B1k-14a045235/" target="_blank">
