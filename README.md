@@ -64,10 +64,7 @@
   &emsp;
 </p>
 
- Connect With Me
-  <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px">
-</h1>
-
+### 👉  Connect With Me
 <p align="center">
   <br>
   <a href="https://www.linkedin.com/in/JayantGoel001/" target="_blank">
