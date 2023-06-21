@@ -64,6 +64,8 @@
   &emsp;
 </p>
 
+<hr/>
+
 ### 👉  Connect With Me <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px">
 </h1>
   
