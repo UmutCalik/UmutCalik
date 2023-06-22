@@ -72,7 +72,7 @@
 <br>
 
 [![@UmutCalik](https://img.icons8.com/fluency/48/000000/instagram-new.png "@UmutCalik")](#)
-[![@UmutCalik](https://img.icons8.com/fluency/48/000000/linkedin.png "@UmutCalik")](#)
+[![@UmutCalik](https://img.icons8.com/fluency/48/000000/linkedin.png "@UmutCalik")](https://www.linkedin.com/in/umutcan-%C3%A7al%C4%B1k-14a045235/)
 
 <br>
 
