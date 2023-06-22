@@ -71,7 +71,8 @@
 
 <br>
 
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")][![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")]([https://www.linkedin.com/in/anushkawijegoonawardana97/](https://www.linkedin.com/in/umutcan-%C3%A7al%C4%B1k-14a045235/)) 
+[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")](https://www.instagram.com/anushkawijegoonawardana97/)
+
 <br>
 
 
