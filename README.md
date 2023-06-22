@@ -71,7 +71,8 @@
 
 <br>
 
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")](#)
+[![@UmutCalik](https://img.icons8.com/fluency/48/000000/instagram-new.png "@UmutCalik")](#)
+[![@UmutCalik](https://img.icons8.com/fluency/48/000000/linkedin.png "@UmutCalik")](#)
 
 <br>
 
