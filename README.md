@@ -66,13 +66,6 @@
 
 <hr/>
 
-### 👉 GitHub Stats
-</h3>
-<a href="https://github.com/UmutCalik">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmutCalik&layout=compact&theme=dark&show_icons=true" width="450">
-</a>
-
-<hr/>
 
 ### 👉  Connect With Me <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px">
 </h1>
